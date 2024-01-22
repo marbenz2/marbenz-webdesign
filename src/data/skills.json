@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "image": "images/html.svg",
+    "level": 5,
+    "years": "3+"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "image": "images/css.svg",
+    "level": 5,
+    "years": "3+"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "image": "images/javascript.svg",
+    "level": 5,
+    "years": "3+"
+  },
+  {
+    "id": 4,
+    "name": "TypeScript",
+    "image": "images/typescript.svg",
+    "level": 3,
+    "years": "1+"
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "image": "images/react.svg",
+    "level": 4,
+    "years": "2+"
+  },
+  {
+    "id": 6,
+    "name": "VSCode",
+    "image": "images/vscode.svg",
+    "level": 4,
+    "years": "4+"
+  }
+]

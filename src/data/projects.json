@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "MarBenz",
+    "type": "Website",
+    "image": "/marbenz-webdesign.webp",
+    "description": [
+      "Private Website",
+      "Präsentation Person",
+      "Präsentation Projekte",
+      "Schlicht",
+      "Modern"
+    ],
+    "badges": ["Vite", "React", "Tailwind"],
+    "github": "https://github.com/marbenz2/portfolio-marbenz/",
+    "live": "https://marbenz.de/"
+  },
+  {
+    "id": 2,
+    "name": "Blockchecker",
+    "type": "Web App",
+    "image": "/blockcheck.webp",
+    "description": [
+      "Web App",
+      "VeChain Thor Blockchain",
+      "Live Blockchain Data",
+      "Live Market Data",
+      "Einfaches Design"
+    ],
+    "badges": ["NextJS", "Tailwind", "JavaScript", "Connex", "API"],
+    "github": "https://github.com/marbenz2/blockcheck",
+    "live": "https://blockcheck-seven.vercel.app/"
+  }
+]
