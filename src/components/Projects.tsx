@@ -36,11 +36,9 @@ const Projects = () => {
                   className="w-full"
                 />
                 <div className="flex flex-col gap-4">
-                  <ul className="text-sm md:text-md list-disc list-inside">
-                    {project.description.map((item) => (
-                      <li key={item}>{item}</li>
-                    ))}
-                  </ul>
+                  <p className="text-sm md:text-md list-disc list-inside whitespace-pre-wrap">
+                    {project.description}
+                  </p>
                   <div className="flex flex-wrap gap-2">
                     {project.badges.map((item) => (
                       <Badge key={item}>{item}</Badge>
