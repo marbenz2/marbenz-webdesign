@@ -15,7 +15,7 @@
     "type": "Web App",
     "image": "/blockinfo.webp",
     "description": "Ein kleines Dashboard mit Informationen über die VeChain Thor Blockchain.\n\nVerwendet wurde die VeChainStats-API, um die neuesten Informationen zu Nodes, Blöcken und Transaktionen zu erhalten.\n\nDie Coingecko-API wird genutzt, um die neuesten Preisinformationen zu erhalten.\n\nEine Datenbank wird verwendet, um historische Transaktionsdaten zu speichern.\n\nSchließlich werden die Transaktionsdaten der letzten 12 Monate in einem Graphen dargestellt.",
-    "badges": ["Vite", "React", "Tailwind", "MongoDB", "GraphJS", "API"],
+    "badges": ["Next", "Tailwind", "shadcn/ui", "MongoDB", "GraphJS", "API"],
     "github": "https://github.com/marbenz2/blockinfo/",
     "live": "https://blockinfo-two.vercel.app/"
   }
