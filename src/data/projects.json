@@ -4,31 +4,19 @@
     "name": "MarBenz",
     "type": "Website",
     "image": "/marbenz-webdesign.webp",
-    "description": [
-      "Private Website",
-      "Präsentation Person",
-      "Präsentation Projekte",
-      "Schlicht",
-      "Modern"
-    ],
+    "description": "Eine Portfolio-Webseite, um meine Projekte und Fähigkeiten zu präsentieren.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS umgesetzt.\n\nDie Webseite ist responsiv und wurde mit dem Ziel erstellt, dass sie auf allen Geräten gut aussieht.",
     "badges": ["Vite", "React", "Tailwind"],
     "github": "https://github.com/marbenz2/portfolio-marbenz/",
     "live": "https://marbenz.de/"
   },
   {
     "id": 2,
-    "name": "Blockchecker",
+    "name": "Blockinfo",
     "type": "Web App",
-    "image": "/blockcheck.webp",
-    "description": [
-      "Web App",
-      "VeChain Thor Blockchain",
-      "Live Blockchain Data",
-      "Live Market Data",
-      "Einfaches Design"
-    ],
-    "badges": ["NextJS", "Tailwind", "JavaScript", "Connex", "API"],
-    "github": "https://github.com/marbenz2/blockcheck",
-    "live": "https://blockcheck-seven.vercel.app/"
+    "image": "/blockinfo.webp",
+    "description": "Ein kleines Dashboard mit Informationen über die VeChain Thor Blockchain.\n\nVerwendet wurde die VeChainStats-API, um die neuesten Informationen zu Nodes, Blöcken und Transaktionen zu erhalten.\n\nDie Coingecko-API wird genutzt, um die neuesten Preisinformationen zu erhalten.\n\nEine Datenbank wird verwendet, um historische Transaktionsdaten zu speichern.\n\nSchließlich werden die Transaktionsdaten der letzten 12 Monate in einem Graphen dargestellt.",
+    "badges": ["Vite", "React", "Tailwind", "MongoDB", "GraphJS", "API"],
+    "github": "https://github.com/marbenz2/blockinfo/",
+    "live": "https://blockinfo-two.vercel.app/"
   }
 ]
