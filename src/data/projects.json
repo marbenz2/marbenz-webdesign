@@ -18,5 +18,15 @@
     "badges": ["Next", "Tailwind", "shadcn/ui", "MongoDB", "GraphJS", "API"],
     "github": "https://github.com/marbenz2/blockinfo/",
     "live": "https://blockinfo-two.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "VManager",
+    "type": "Web3 App",
+    "image": "/vmanager.webp",
+    "description": "Ein kleines Dashboard mit Informationen über eine eingeloggte VeChain Wallet.\n\nFür die Daten der Blöcke, Transaktionen sowie der Benutzer Wallet wird VeChains eigene Connex API eingesetzt.\n\nHauptsächlich dient die App dazu, einen User via VeWorld (VeChain Wallet) einzuloggen und ihm Informationen über seine Wallet zu geben.",
+    "badges": ["Vite", "Tailwind", "shadcn/ui", "Connex"],
+    "github": "https://github.com/marbenz2/vmanager/",
+    "live": "https://vmanager.pages.dev/"
   }
 ]
