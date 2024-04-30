@@ -28,5 +28,27 @@
     "badges": ["Vite", "Tailwind", "shadcn/ui", "Connex"],
     "github": "https://github.com/marbenz2/vmanager/",
     "live": "https://vmanager.pages.dev/"
+  },
+  {
+    "id": 4,
+    "name": "KI Wetter App",
+    "type": "Web App",
+    "image": "/ai-weather-app.webp",
+    "description": "Die Wetter-App nutzt KI, um Wetterdaten auf innovative Weise zu präsentieren.\n\nDie Daten werden direkt von Open Meteo über GraphQL bezogen, während die KI-Funktionalität durch OpenAI's GPT-3.5 über RapidAPI bereitgestellt wird.\n\nDas Design der App wurde mit TailwindCSS realisiert und mit besonderem Augenmerk auf Responsivität gestaltet, um auf allen Geräten eine optimale Darstellung zu gewährleisten.\n\nDie Entwicklung dieser App basiert auf einem YouTube-Tutorial von",
+    "badges": [
+      "Next",
+      "Tailwind",
+      "Tremor",
+      "OpenAI",
+      "StepZen",
+      "GraphQL",
+      "RapidAPI"
+    ],
+    "github": "https://github.com/marbenz2/ai-weather-app/",
+    "live": "https://ai-weather-app-seven.vercel.app/",
+    "reference": {
+      "link": "https://www.youtube.com/@SonnySangha/",
+      "name": "@SonnySangha"
+    }
   }
 ]

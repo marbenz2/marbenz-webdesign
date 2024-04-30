@@ -37,7 +37,17 @@ const Projects = () => {
                 />
                 <div className="flex flex-col gap-4">
                   <p className="text-sm md:text-md list-disc list-inside whitespace-pre-wrap">
-                    {project.description}
+                    {project.description}{" "}
+                    {project.reference && (
+                      <a
+                        className="text-contrast"
+                        href={project.reference.link}
+                        target="_blank"
+                        rel="noreferrer noopener"
+                      >
+                        {project.reference.name}
+                      </a>
+                    )}
                   </p>
                   <div className="flex flex-wrap gap-2">
                     {project.badges.map((item) => (
