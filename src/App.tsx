@@ -8,7 +8,7 @@ import Projects from "./components/Projects";
 function App() {
   return (
     <main className="flex flex-col lg:flex-row w-full min-h-screen bg-background">
-      <section className="flex items-center py-12 lg:py-0 w-full lg:w-1/2 2xl:w-1/3 bg-foreground/10 border-b-4 border-r-0 lg:border-b-0 lg:border-r-4">
+      <section className="flex items-center justify-center py-12 lg:py-0 w-full lg:w-1/2 2xl:w-1/3 bg-foreground/10 border-b-4 border-r-0 lg:border-b-0 lg:border-r-4">
         <Avatar />
       </section>
       <section className="flex flex-col pt-12 pb-2 lg:px-4 lg:pt-36 2xl:px-48 w-full lg:w-1/2 2xl:w-2/3 gap-16 lg:gap-0 lg:justify-between">
