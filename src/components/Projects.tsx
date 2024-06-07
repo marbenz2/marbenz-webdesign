@@ -14,7 +14,7 @@ const Projects = () => {
   return (
     <Carousel className="flex flex-col w-full lg:self-end self-center gap-2 px-2 relative">
       <h2 className="text-lg md:text-2xl font-semibold text-center">
-        Projekte
+        Portfolio
       </h2>
       <CarouselPrevious className="absolute top-4 left-2 w-12 h-6" />
       <CarouselNext className="absolute top-4 right-2 w-12 h-6" />
