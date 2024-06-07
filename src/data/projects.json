@@ -15,7 +15,15 @@
     "type": "Web App",
     "image": "/blockinfo.webp",
     "description": "Ein kleines Dashboard mit Informationen über die VeChain Blockchain.\n\nVerwendet wurde die VeChainStats-API, um die neuesten Informationen zu X-Nodes, Blöcken und Transaktionen zu erhalten.\n\nDie Coingecko-API wird genutzt, um aktuelle Preisinformationen zu erhalten.\n\nAls Datenbank wird eine MongoDB verwendet um die monatlichen Transaktionsdaten zu speichern.\n\nSchließlich werden die Transaktionsdaten der letzten 12 Monate in einem Graphen dargestellt.",
-    "badges": ["Next", "Tailwind", "shadcn/ui", "MongoDB", "GraphJS", "API"],
+    "badges": [
+      "Next",
+      "Tailwind",
+      "shadcn/ui",
+      "MongoDB",
+      "GraphJS",
+      "API",
+      "Blockchain"
+    ],
     "github": "https://github.com/marbenz2/blockinfo/",
     "live": "https://blockinfo-two.vercel.app/"
   },
@@ -50,5 +58,15 @@
       "link": "https://www.youtube.com/@SonnySangha/",
       "name": "@SonnySangha"
     }
+  },
+  {
+    "id": 5,
+    "name": "Friseursalon",
+    "type": "Landing Page",
+    "image": "/landingpage.webp",
+    "description": "Eine Landingpage für einen Friseursalon.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS und shadcn/ui umgesetzt.\n\nDie Landingpage ist responsiv und somit mit alle Gerätetypen nutzbar.",
+    "badges": ["Vite", "Tailwind", "shadcn/ui"],
+    "github": "https://github.com/marbenz2/friseurstudio-landingpage/",
+    "live": "https://friseurstudio-landingpage.pages.dev/"
   }
 ]
