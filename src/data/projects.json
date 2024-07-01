@@ -1,16 +1,6 @@
 [
   {
     "id": 1,
-    "name": "MarBenz",
-    "type": "Website",
-    "image": "/marbenz-webdesign.webp",
-    "description": "Eine Portfolio-Webseite, um meine Projekte und Fähigkeiten zu präsentieren.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS umgesetzt.\n\nDie Webseite ist responsiv und wurde mit dem Ziel erstellt, dass sie auf allen Geräten gut aussieht.",
-    "badges": ["Vite", "React", "Tailwind"],
-    "github": "https://github.com/marbenz2/portfolio-marbenz/",
-    "live": "https://marbenz.de/"
-  },
-  {
-    "id": 2,
     "name": "Blockinfo",
     "type": "Web App",
     "image": "/blockinfo.webp",
@@ -28,7 +18,7 @@
     "live": "https://blockinfo-two.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "VManager",
     "type": "Web3 App",
     "image": "/vmanager.webp",
@@ -38,7 +28,7 @@
     "live": "https://vmanager.pages.dev/"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "KI Wetter App",
     "type": "Web App",
     "image": "/ai-weather-app.webp",
@@ -60,7 +50,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Friseursalon",
     "type": "Landing Page",
     "image": "/landingpage.webp",
