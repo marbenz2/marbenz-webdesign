@@ -17,7 +17,7 @@
     "id": 3,
     "name": "JavaScript",
     "image": "images/javascript.svg",
-    "level": 5,
+    "level": 4,
     "years": "3+"
   },
   {
@@ -33,12 +33,5 @@
     "image": "images/react.svg",
     "level": 4,
     "years": "2+"
-  },
-  {
-    "id": 6,
-    "name": "VSCode",
-    "image": "images/vscode.svg",
-    "level": 4,
-    "years": "4+"
   }
 ]

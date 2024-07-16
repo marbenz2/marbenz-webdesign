@@ -31,7 +31,7 @@ const Skills = () => {
             <HoverCardContent>
               {skill.name} <br />
               {stars(skill.level)} <br />
-              {skill.years} Jahre Erfahrung.
+              {skill.years} Jahre Erfahrung
             </HoverCardContent>
           </HoverCard>
         ))}
