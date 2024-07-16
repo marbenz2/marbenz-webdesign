@@ -24,7 +24,7 @@ const Footer = () => {
       <div className="flex flex-col w-fit text-start">
         <h3 className="text-md md:text-xl font-semibold">Copyright</h3>
         <p className="text-xs md:text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} - MarBenz
+          {new Date().getFullYear()} - MarBenz
         </p>
       </div>
     </footer>
