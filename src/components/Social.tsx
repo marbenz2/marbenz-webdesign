@@ -17,7 +17,7 @@ const Social = () => {
         >
           <img src="/images/linkedin.svg" alt="LinkedIn Icon" width={40} />
         </a>
-        <a href="mailto:info@marbenz.de">
+        <a href="mailto:hello@marbenz.de">
           <img src="/images/mail.svg" alt="Mail Icon" width={40} />
         </a>
       </div>

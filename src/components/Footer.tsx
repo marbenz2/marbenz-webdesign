@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="flex flex-col w-fit text-start">
         <h3 className="text-md md:text-xl font-semibold">Kontakt</h3>
         <p className="text-xs md:text-sm text-muted-foreground">
-          <a href="mailto:info@marbenz.de">info@marbenz.de</a>
+          <a href="mailto:hello@marbenz.de">hello@marbenz.de</a>
         </p>
       </div>
       <div className="flex flex-col w-fit text-start">
