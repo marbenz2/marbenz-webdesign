@@ -17,6 +17,13 @@ const Social = () => {
         >
           <img src="/images/linkedin.svg" alt="LinkedIn Icon" width={40} />
         </a>
+        <a
+          href="https://www.xing.com/profile/Marcel_Benzinger/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <img src="/images/xing.svg" alt="Xing Icon" width={40} />
+        </a>
         <a href="mailto:hello@marbenz.de">
           <img src="/images/mail.svg" alt="Mail Icon" width={40} />
         </a>
