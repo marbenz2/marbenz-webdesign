@@ -16,7 +16,7 @@ function App() {
           </div>
         </section>
         <section className="flex flex-col items-center w-full lg:w-2/3">
-          <div className="flex flex-col w-full max-w-5xl lg:min-h-screen gap-24 justify-between lg:gap-64 p-16">
+          <div className="flex flex-col w-full max-w-5xl lg:min-h-screen gap-24 justify-between lg:gap-64 p-8 md:p-16">
             <Title />
             <About />
             <div className="flex flex-col md:flex-row lg:flex-col 2xl:flex-row gap-24 md:justify-between 2xl:justify-between">
@@ -24,7 +24,7 @@ function App() {
               <Social />
             </div>
           </div>
-          <div className="flex flex-col lg:min-h-screen justify-center w-full max-w-5xl p-16">
+          <div className="flex flex-col lg:min-h-screen justify-center w-full max-w-5xl p-8 md:p-16">
             <Projects />
           </div>
           <Footer />
