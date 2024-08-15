@@ -4,26 +4,32 @@
     "name": "Blockinfo",
     "type": "Web App",
     "image": "/blockinfo.webp",
-    "description": "Ein kleines Dashboard mit Informationen über die VeChain Blockchain.\n\nVerwendet wurde die VeChainStats-API, um die neuesten Informationen zu X-Nodes, Blöcken und Transaktionen zu erhalten.\n\nDie Coingecko-API wird genutzt, um aktuelle Preisinformationen zu erhalten.\n\nAls Datenbank wird eine MongoDB verwendet um die monatlichen Transaktionsdaten zu speichern.\n\nSchließlich werden die Transaktionsdaten der letzten 12 Monate in einem Graphen dargestellt.",
+    "description": "Ein Web3.0 Dashboard mit Informationen über die VeChain Blockchain.\n\nÜber die Hauseigene Connex API von Vechain werden sämtliche Daten direkt aus der Blockchain ausgelesen.",
     "badges": [
-      "Next",
+      "Vite",
       "Tailwind",
       "shadcn/ui",
-      "MongoDB",
-      "GraphJS",
-      "API",
-      "Blockchain"
+      "Connex",
+      "Blockchain",
+      "Web3.0"
     ],
-    "github": "https://github.com/marbenz2/blockinfo/",
-    "live": "https://blockinfo-two.vercel.app/"
+    "github": "https://github.com/marbenz2/blockinfo2.0/",
+    "live": "https://blockinfo2-0.pages.dev/"
   },
   {
     "id": 2,
     "name": "VManager",
     "type": "Web3 App",
     "image": "/vmanager.webp",
-    "description": "Ein kleines Dashboard mit Informationen über eine eingeloggte VeChain Wallet.\n\nFür die Daten der Blöcke, Transaktionen sowie der Benutzer Wallet wird VeChains eigene API Connex eingesetzt.\n\nHauptsächlich dient die App dazu, einen User via VeWorld (VeChain Wallet) einzuloggen und ihm Informationen über seine Wallet zu geben.",
-    "badges": ["Vite", "Tailwind", "shadcn/ui", "Connex", "Blockchain"],
+    "description": "Eine kleine Web3.0 VeChain Wallet.\n\nFür die Daten der Blöcke, Transaktionen sowie der Benutzer Wallet wird VeChains eigene API Connex eingesetzt.\n\nDie App dient einem Nutzer dazu, sich via VeWorld (VeChain Wallet) einzuloggen und Informationen über seinen Account zu geben.",
+    "badges": [
+      "Vite",
+      "Tailwind",
+      "shadcn/ui",
+      "Connex",
+      "Blockchain",
+      "Web3.0"
+    ],
     "github": "https://github.com/marbenz2/vmanager/",
     "live": "https://vmanager.pages.dev/"
   },
@@ -32,7 +38,7 @@
     "name": "KI Wetter App",
     "type": "Web App",
     "image": "/ai-weather-app.webp",
-    "description": "Die Wetter-App nutzt KI um Wetterdaten auf innovative Weise zu präsentieren.\n\nDie Daten werden direkt von Open Meteo über GraphQL bezogen. Die KI-Funktionalität wird durch OpenAI's GPT-3.5turbo über RapidAPI bereitgestellt.\n\nDas Design der App wurde mit TailwindCSS realisiert und mit besonderem Augenmerk auf Responsivität gestaltet, um auf allen Geräten eine optimale Darstellung zu gewährleisten.\n\nDie Entwicklung dieser App basiert auf einem YouTube-Tutorial von",
+    "description": "Die Wetter-App nutzt KI um Wetterdaten auf innovative Weise zu präsentieren.\n\nDie Daten werden direkt von Open Meteo über GraphQL bezogen. Die KI-Funktionalität wird durch OpenAI's GPT-3.5turbo über RapidAPI bereitgestellt.\n\nDie Entwicklung dieser App basiert auf einem YouTube-Tutorial von",
     "badges": [
       "Next",
       "Tailwind",
@@ -54,9 +60,29 @@
     "name": "Friseursalon",
     "type": "Landing Page",
     "image": "/landingpage.webp",
-    "description": "Eine Landingpage für einen Friseursalon.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS und shadcn/ui umgesetzt.\n\nDie Landingpage ist responsiv und somit mit alle Gerätetypen nutzbar.",
+    "description": "Eine Landingpage für einen Friseursalon.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS und shadcn/ui umgesetzt um dem Nutzer ein optimales Erlebnis auf allen Gerätetypen zu bieten.",
     "badges": ["Vite", "Tailwind", "shadcn/ui"],
     "github": "https://github.com/marbenz2/friseurstudio-landingpage/",
     "live": "https://friseurstudio-landingpage.pages.dev/"
+  },
+  {
+    "id": 5,
+    "name": "Fabelhafte Funde",
+    "type": "Landing Page",
+    "image": "/fabelhaftefunde.webp",
+    "description": "Eine Landingpage für einen lokalen Second-Hand-Shop.\n\nDas Frontend dieser Webseite wurde mit Vite erstellt.\n\nUm die Designwünsche der Eigentümerin zu erfüllen, wurden TailwindCSS und shadcn/ui eingesetzt. Die Webseite wurde für alle Gerätetypen optimiert.",
+    "badges": ["Vite", "Tailwind", "shadcn/ui"],
+    "github": "https://github.com/marbenz2/fabel_hafte_funde/",
+    "live": "https://fabel-hafte-funde.pages.dev/"
+  },
+  {
+    "id": 6,
+    "name": "Fabelhafte Funde Backend",
+    "type": "Content-Management-System",
+    "image": "/fabelhaftefunde-backend.webp",
+    "description": "Ein Content-Management-System, um Produkte auf einer Website zu veröffentlichen.\n\nAls CMS wurde Payload in Version 3 eingesetzt.\n\nDie Collections für die Produkte und Kategorien wurden individuell angepasst, um alle Anforderungen zu erfüllen.",
+    "badges": ["Next", "PayloadCMS"],
+    "github": "https://github.com/marbenz2/fabelhafte-funde_backend/",
+    "live": "https://fabelhafte-funde.netlify.app/admin/"
   }
 ]
