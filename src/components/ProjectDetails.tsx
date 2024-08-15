@@ -64,7 +64,7 @@ export function ProjectDetails({ project }: { project: ProjectProps }) {
                 alt={`Image of the ${project.name} Website`}
                 width={200}
                 height={200}
-                className="w-full h-[150px] object-cover"
+                className="w-full h-[150px] object-cover object-top"
               />
             </CardContent>
           </Card>
