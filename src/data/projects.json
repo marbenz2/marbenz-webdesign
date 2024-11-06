@@ -11,6 +11,16 @@
   },
   {
     "id": 2,
+    "name": "MarBenz Merch Shop",
+    "type": "E-Commerce",
+    "image": "/marbenz-merch.webp",
+    "description": "Ein E-Commerce-Projekt, welches ich für meine persönliche Entwicklung in diesem Bereich entwickelt habe.\n\nAls Tech-Stack wurden Next.js, Tailwind, shadcn/ui, Supabase und Stripe verwendet.\n\nDie Authentifizierung der Nutzer erfolgt über Supabase Auth und die Verwaltung der Daten über eine Supabase-Postgres-Datenbank.\nStripe dient als Zahlungsanbieter und ermöglicht es den Nutzern, die gewählten Produkte zu kaufen.\n\nBisherige Funktionen: Die Authentifizierung der Nutzer, das Hinzufügen von Produkten in den Warenkorb, das Anlegen von Bestellungen, das Speichern der Daten in der Datenbank und das Bezahlen der Bestellungen via Stripe.\n\nDies ist ein 'Work in Progress'-Projekt.",
+    "badges": ["Next", "Tailwind", "shadcn/ui", "Supabase", "Stripe"],
+    "github": "https://github.com/marbenz2/marbenz-merch/",
+    "live": "https://marbenz-merch.vercel.app/"
+  },
+  {
+    "id": 3,
     "name": "Blockinfo",
     "type": "Web App",
     "image": "/blockinfo.webp",
@@ -27,7 +37,7 @@
     "live": "https://blockinfo2-0.pages.dev/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "VManager",
     "type": "Web3 App",
     "image": "/vmanager.webp",
@@ -44,7 +54,7 @@
     "live": "https://vmanager.pages.dev/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "KI Wetter App",
     "type": "Web App",
     "image": "/ai-weather-app.webp",
@@ -66,7 +76,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Friseursalon",
     "type": "Landing Page",
     "image": "/landingpage.webp",
@@ -76,7 +86,7 @@
     "live": "https://friseurstudio-landingpage.pages.dev/"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Fabelhafte Funde",
     "type": "Landing Page",
     "image": "/fabelhaftefunde.webp",
@@ -86,7 +96,7 @@
     "live": "https://fabel-hafte-funde.pages.dev/"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Fabelhafte Funde Backend",
     "type": "Content-Management-System",
     "image": "/fabelhaftefunde-backend.webp",
