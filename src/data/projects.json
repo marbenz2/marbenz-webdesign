@@ -21,6 +21,16 @@
   },
   {
     "id": 3,
+    "name": "Every Day Better",
+    "type": "Animated Landing Page",
+    "image": "/better-every-day.webp",
+    "description": "Eine Animierte Landingpage.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS umgesetzt um dem Nutzer ein optimales Erlebnis auf allen Gerätetypen zu bieten.\n\nDie Animationen wurden mit Motion (ehem. Framer-Motion) erstellt um dem Nutzer eine optimale UX zu bieten.",
+    "badges": ["Vite", "Tailwind", "Motion"],
+    "github": "https://github.com/marbenz2/better-every-day/",
+    "live": "https://better-every-day.pages.dev/"
+  },
+  {
+    "id": 4,
     "name": "Blockinfo",
     "type": "Web App",
     "image": "/blockinfo.webp",
@@ -37,7 +47,7 @@
     "live": "https://blockinfo2-0.pages.dev/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "VManager",
     "type": "Web3 App",
     "image": "/vmanager.webp",
@@ -54,7 +64,7 @@
     "live": "https://vmanager.pages.dev/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "KI Wetter App",
     "type": "Web App",
     "image": "/ai-weather-app.webp",
@@ -76,7 +86,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Friseursalon",
     "type": "Landing Page",
     "image": "/landingpage.webp",
@@ -86,7 +96,7 @@
     "live": "https://friseurstudio-landingpage.pages.dev/"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Fabelhafte Funde",
     "type": "Landing Page",
     "image": "/fabelhaftefunde.webp",
@@ -96,7 +106,7 @@
     "live": "https://fabel-hafte-funde.pages.dev/"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Fabelhafte Funde Backend",
     "type": "Content-Management-System",
     "image": "/fabelhaftefunde-backend.webp",
