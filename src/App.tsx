@@ -5,12 +5,13 @@ import Social from "./components/Social";
 import Footer from "./components/Footer";
 import Projects from "./components/Projects";
 import Title from "./components/Title";
+import ChatWithMe from "./components/ChatWithMe";
 
 function App() {
   return (
     <main className="flex flex-col">
       <div className="flex flex-col lg:flex-row w-full min-h-screen bg-background">
-        <section className="flex w-full lg:w-1/3 bg-foreground/10 border-b-4 border-r-0 lg:border-b-0 lg:border-r-4">
+        <section className="flex w-full lg:w-1/3 bg-background2 border-b-4 border-r-0 lg:border-b-0 lg:border-r-4">
           <div className="flex lg:h-screen w-full items-center justify-center p-12">
             <Avatar />
           </div>
@@ -30,6 +31,7 @@ function App() {
           <Footer />
         </section>
       </div>
+      <ChatWithMe />
     </main>
   );
 }
