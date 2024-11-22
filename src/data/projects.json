@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "name": "MarBenz Chat",
+    "type": "Web App",
+    "image": "/marbenz-chat.webp",
+    "description": "Eine Realtime Chat App um hauptsächlich Arbeitgebern die Möglichkeit zu geben, mit mir in Kontakt zu treten.\n\nDie App wurde mit React, TailwindCSS, daisyUI, mongoDB, cloudinary und socket.io entwickelt.\n\nDie Authentifizierung der Nutzer erfolgt über JWT und die Daten werden in einer mongoDB-Datenbank gespeichert.\n\nDie App bietet die Möglichkeit, Nachrichten zu senden, Bilder und pdf Dateien hochzuladen und mit mir zu teilen.\n\nDies ist ein 'Work in Progress'-Projekt.",
+    "badges": [
+      "React",
+      "Tailwind",
+      "daisyui",
+      "mongoDB",
+      "cloudinary",
+      "socket.io",
+      "express js"
+    ],
+    "github": "https://github.com/marbenz2/marbenz-chat/",
+    "live": "https://marbenz-chat.onrender.com/"
+  },
+  {
+    "id": 2,
     "name": "Better. Together.",
     "type": "Web App",
     "image": "/better-together.webp",
@@ -10,7 +28,7 @@
     "live": "https://better-together-gold.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "MarBenz Merch Shop",
     "type": "E-Commerce",
     "image": "/marbenz-merch.webp",
@@ -20,7 +38,7 @@
     "live": "https://marbenz-merch.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Every Day Better",
     "type": "Animated Landing Page",
     "image": "/better-every-day.webp",
@@ -30,7 +48,7 @@
     "live": "https://better-every-day.pages.dev/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Blockinfo",
     "type": "Web App",
     "image": "/blockinfo.webp",
@@ -47,7 +65,7 @@
     "live": "https://blockinfo2-0.pages.dev/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "VManager",
     "type": "Web3 App",
     "image": "/vmanager.webp",
@@ -64,7 +82,7 @@
     "live": "https://vmanager.pages.dev/"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "KI Wetter App",
     "type": "Web App",
     "image": "/ai-weather-app.webp",
@@ -84,16 +102,6 @@
       "link": "https://www.youtube.com/@SonnySangha/",
       "name": "@SonnySangha"
     }
-  },
-  {
-    "id": 7,
-    "name": "Friseursalon",
-    "type": "Landing Page",
-    "image": "/landingpage.webp",
-    "description": "Eine Landingpage für einen Friseursalon.\n\nDie Webseite wurde mit Vite und React erstellt.\n\nDas Design wurde mit TailwindCSS und shadcn/ui umgesetzt um dem Nutzer ein optimales Erlebnis auf allen Gerätetypen zu bieten.",
-    "badges": ["Vite", "Tailwind", "shadcn/ui"],
-    "github": "https://github.com/marbenz2/friseurstudio-landingpage/",
-    "live": "https://friseurstudio-landingpage.pages.dev/"
   },
   {
     "id": 8,
